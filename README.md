@@ -27,7 +27,8 @@ I'm currently a student with a passion for Data Science and Machine Learning. I 
 </p>
 
 ### 🤝🏻 Connect with Me
-
+|   |   |   |
+|---|---|---|
 | Email: | [nicolas.debrito66@gmail.com](mailto:nicolas.debrito66@gmail.com) |
 | LinkedIn: | [Nicolas Debrito](https://www.linkedin.com/in/nicolas-debrito-501569284) |
 | GitHub: | [Reezzcy](https://github.com/reezzcy) |
