@@ -1,22 +1,33 @@
-### Hi there 👋
+## Hi there! I'm Nicolas Debrito 👋
 
-<!--
-**Reezzcy/reezzcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm currently a student with a passion for Data Science and Machine Learning. I am deeply fascinated by the power of data and its potential to drive insights and innovation across various domains.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 💡 My main focus is to explore new technologies and develop software solutions.
+- 🎓 I’m currently pursuing my studies in informatics at National Development University "Veteran" Jakarta
+- 🌱 I'm on track to learn more about Data Science and Machine Learning.
+- ✍️ If I have the opportunity and free time, I also pursue mobile development.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me 
+
+### What I'm Interested In
+
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🤖 Artificial Intelligence
+- 📱 Mobile Development
+- 📔 Continuous Learning
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/reezzcy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reezzcy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/reezzcy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reezzcy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
+
+### 🤝🏻 Connect with Me
+
+- Email: [nicolas.debrito66@gmail.com](mailto:nicolas.debrito66@gmail.com)
+- LinkedIn: [Nicolas Debrito](https://www.linkedin.com/in/nicolas-debrito/)
+- GitHub: [Reezzcy](https://github.com/reezzcy)
