@@ -12,17 +12,6 @@ I'm currently a student with a passion for Data Science and Machine Learning. I 
 
 ### 💡 What I'm Interested In
 
-| 💡 What I'm Interested In|📊 GitHub Analytics   |
-|------------------------|------------------------|
-|📊 Data Science| <p align="center">
-  <a href="https://github.com/reezzcy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reezzcy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p> |
-|🧠 Machine Learning| 
-|🤖 Artificial Intelligence |                      
-|📱 Mobile Development|
-|📔 Continuous Learning|
 - 📊 Data Science
 - 🧠 Machine Learning
 - 🤖 Artificial Intelligence
@@ -31,7 +20,7 @@ I'm currently a student with a passion for Data Science and Machine Learning. I 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/reezzcy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reezzcy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
