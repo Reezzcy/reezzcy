@@ -6,7 +6,7 @@ I'm currently a student with a passion for Data Science and Machine Learning. I 
 - 💡 My main focus is to explore new technologies and develop software solutions.
 - 🎓 I’m currently pursuing my studies in informatics at National Development University "Veteran" Jakarta
 - 🌱 I'm on track to learn more about Data Science and Machine Learning.
-- ✍️ If I have the opportunity and free time, I also pursue mobile development.
+- ✍️ If I have the opportunity and free time, I also pursue Mobile Development.
 - 📫 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
 - 📄 Please have a look at my Resume for more details about me. I'm open to feedback and suggestions!
 
@@ -28,6 +28,6 @@ I'm currently a student with a passion for Data Science and Machine Learning. I 
 
 ### 🤝🏻 Connect with Me
 
-- Email: [nicolas.debrito66@gmail.com](mailto:nicolas.debrito66@gmail.com)
-- LinkedIn: [Nicolas Debrito](https://www.linkedin.com/in/nicolas-debrito-501569284)
-- GitHub: [Reezzcy](https://github.com/reezzcy)
+| Email: | [nicolas.debrito66@gmail.com](mailto:nicolas.debrito66@gmail.com) |
+| LinkedIn: | [Nicolas Debrito](https://www.linkedin.com/in/nicolas-debrito-501569284) |
+| GitHub: | [Reezzcy](https://github.com/reezzcy) |
